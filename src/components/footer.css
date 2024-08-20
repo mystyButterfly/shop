@@ -1,0 +1,15 @@
+.footer {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.footer div{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 80%;
+  margin-inline: auto;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
